@@ -1,5 +1,7 @@
 // package metadata file for Meteor.js
 
+// new comments here
+
 /* jshint strict:false */
 /* global Package:true */
 
